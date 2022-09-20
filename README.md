@@ -1,0 +1,4 @@
+# heimadianshang
+一个黑马电商平台
+ 运行前端时候需要在phpStudy上打开mysql然后把后端那个文件夹放到vscode然后运行在终端打node app.js 数据库就连接成功了
+ 数据库连接成功后再打开用vscode打开前端文件夹然后在终端执行npm run serve就执行成功了
